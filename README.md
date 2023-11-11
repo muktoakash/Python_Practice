@@ -5,4 +5,3 @@ These programs were written some time ago, and as I was in the learning process,
 
 The code here is not too interesting for Python experts, but they are for my reference and could be a source of inspiration for beginners.
 
-More details to follow...
